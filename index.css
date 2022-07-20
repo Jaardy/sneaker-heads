@@ -64,9 +64,12 @@ h1{
     box-shadow: 50px;
     
 }
-#row1{
-    margin-left: 20%;
-}
 #row2{
-    margin-right: 20%;
+    position: relative;
+    left: 200px;
+    top: 0px;
+}
+body{
+    margin: 0 auto;
+    width: 50%;
 }

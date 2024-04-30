@@ -37,7 +37,7 @@ p{
 h1{
     background-image: linear-gradient(rgb(116,201,241),red);
     text-align: center;
-    color: blue;
+    color: grey;
     font-weight: 900;
     text-shadow: 5px 5px 5px yellow;
     text-decoration: underline 5px;
@@ -46,9 +46,19 @@ h1{
     border: 5px;
     border-radius: 15px 15px 15px 15px ;
     margin: auto;
-    margin-bottom: 25px;
-    
+    margin-bottom: 25px; 
 }
+
+.shoe-subheading {
+    text-align: center;
+    color: blue;
+}
+
+#row1 {
+    color: red;
+    border: solid yellow;
+}
+
 #jordans-1-desc{
     background-color: skyblue;
     color: white;
